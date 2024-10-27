@@ -46,7 +46,7 @@ This project demonstrates how to control a stepper motor with an STM32 microcont
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/pratz222/STM32-Stepper-Motor-Interfacing>
    cd STM32-Stepper-Motor-Control
    ```
 
